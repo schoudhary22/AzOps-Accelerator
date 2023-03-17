@@ -27,8 +27,8 @@
             "Core.SkipPim": true,
             "Core.SkipLock": false,
             "Core.SkipPolicy": false,
-            "Core.SkipResource": true,
-            "Core.SkipChildResource": true,
+            "Core.SkipResource": false,
+            "Core.SkipChildResource": false,
             "Core.SkipResourceGroup": false,
             "Core.SkipResourceType": [
                 "microsoft.alertsmanagement/smartDetectorAlertRules",
